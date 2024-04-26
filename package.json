@@ -1,0 +1,8 @@
+{
+  "name": "Uptime-Monitoring-API-Project",
+  "version": "1.0.0",
+  "description": "a project which monitor the state of uploaded link",
+  "main": "index.js",
+  "author": "Kamronnahar Monisha",
+  "license": "MIT"
+}
