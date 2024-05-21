@@ -4,6 +4,7 @@
 const url = require('url');
 const { StringDecoder } = require('string_decoder');
 const routes = require('../routes');
+const {parseJSON} = require('./utilities');
 
 // module scaffolding
 const handler = {};
